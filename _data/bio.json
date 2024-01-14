@@ -7,10 +7,10 @@
     "phone": "808-679-6815",
     "website": "https://jolinwszhang.github.io",
     "summary": "I am studying for a B.S. in Marketing and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "2404 Maile Wy,", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "2404 Maile Wy", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Jolinwszhang", "url": "http://github.com/Jolinwszhang" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/Jolinwszhang" }
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/Jolinwszhang" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/Jolinnzhang" }
     ]
   },
