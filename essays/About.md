@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "About Me"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-20
+date: 2024-01-17
 published: true
 labels:
   - Marketing And Management Information systems
