@@ -40,24 +40,6 @@ WOD3 was quite the challenge for me, taking about 8 minutes to complete. It was 
 
 The most crucial tip I can offer is to fully understand what each HTML tag does and ensure you're placing them in the correct locations within your document. One of the biggest challenges I faced was when my CSS unexpectedly turned red. It turned out that I had missed adding curly braces `{}` at the end of my CSS rules. Remember to always include these braces to properly encapsulate your CSS declarations. For instance, when styling the `body` element, ensure you end the rule with `body {}`. This simple but essential detail can prevent frustrating errors and ensure your styles are applied correctly to your webpage.
 
-## Browser History 6
-The BrowserHistory6 project modifies an existing webpage layout to create a dynamic navigation system. The main page, index.html, introduces the history of browsers and features three buttons labeled "FireFox," "Chrome," and "Internet Explorer." Each button links to separate HTML files containing detailed histories for each browser. Additionally, when hovering over a button, a corresponding browser icon is displayed below the buttons. The project utilizes CSS to style the text with yellow color on a black background for improved readability. Overall, it enhances user experience and navigation through browser history content.
-
-## Advice 
-This one I highly recommend to understand the requirments throughly before starting. Make sure to pay attention to the changing tags to buttoms. Make sure you are also prioritizing readability and organization in your code by using descriptive variable names and commenting your logic. ( it is always good to have a easy to reade code then a jumbled one)
-
-
-## SmartPhoneProducts 1
-The SmartPhoneProducts1_variables project introduces variables to dynamically display smartphone product information on a webpage. By utilizing JavaScript variables for product names, prices, and image URLs, the webpage eliminates hard-coded data, making it easier to maintain and update. The display replicates the layout of SmartPhoneProducts1, with each product's name, price, and image being dynamically inserted into the appropriate sections. Additionally, a separate JavaScript file, products_data.js, stores the variable declarations for better organization. Upon loading the page, the console confirms successful loading of product variables. This implementation enhances the webpage's flexibility and ease of maintenance.
-
-## Advice 
-I personally loved this one but consider different approaches like using document.write(). also make sure that everything is correct. Practice and focus on the subtoatl and tax parts. I would say this was one of the time consuming ones. 
-
-## Invoice 1 
-The Invoice1 WOD aims to dynamically generate a sales receipt using JavaScript expressions and variables. By avoiding hard-coded values, the receipt can adapt to changes in product details while accurately calculating totals. The completed invoice displays essential information for at least five products, including item names, quantities, prices, and extended prices. It also computes the subtotal, sales tax, and grand total, ensuring precise financial calculations. The receipt is presented in an HTML table format, offering a clear and organized layout for easy comprehension. Throughout the task, challenges such as structuring JavaScript code for table generation were encountered, but proper use of string templates and document.write() facilitated the creation of dynamic rows. Overall, the Invoice1 WOD reinforces proficiency in JavaScript and demonstrates the ability to create functional, dynamic web content.
-
-## Advice 
-My advice is to start breaking down the task into smaller steps and then focusing on one aspect at a time. Experiment with different methods for dynamically generating table rows, such as using string templates or manipulating the DOM directly.Pay attention to formatting details, such as displaying currency values with two decimal places and adding appropriate symbols like "$" for prices. Definately take advantage of debugging tools in your browser to inspect and troubleshoot your code as needed.( It is also helpful to have the live feature on)
 
 ## Thank You
 
