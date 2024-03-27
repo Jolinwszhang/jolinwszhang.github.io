@@ -7,28 +7,69 @@
     "phone": "808-679-6815",
     "website": "https://jolinwszhang.github.io",
     "summary": "I am studying for a B.S. in Marketing and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "4057 Koko Drive", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "4057 Koko Drive",
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "Jolinwszhang", "url": "http://github.com/Jolinwszhang" },
-      { "network": "linkedin", "username": "Jolinwszhang", "url": "http://linkedin.com/in/Jolinwszhang" },
-      { "network": "instagram", "username": "Jolinnzhang", "url": "http://instagram.com/Jolinnzhang" }
+      {
+        "network": "github",
+        "username": "Jolinwszhang",
+        "url": "http://github.com/Jolinwszhang"
+      },
+      {
+        "network": "linkedin",
+        "username": "Jolinwszhang",
+        "url": "http://linkedin.com/in/Jolinwszhang"
+      },
+      {
+        "network": "instagram",
+        "username": "Jolinnzhang",
+        "url": "http://instagram.com/Jolinnzhang"
+      }
     ]
   },
   "interests": [
-    { "name": "Product Management" },
-    { "name": "Product Marketing" },
-    { "name": "Digital Design" },
-    { "name": "UX Design" },
-    { "name": "Social Media Marketing" }
+    {
+      "name": "Product Management"
+    },
+    {
+      "name": "Product Marketing"
+    },
+    {
+      "name": "Digital Design"
+    },
+    {
+      "name": "UX Design"
+    },
+    {
+      "name": "Social Media Marketing"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+      ]
     }
   ],
   "education": [
@@ -38,8 +79,7 @@
       "studyType": "B.S.",
       "startDate": "2021-05-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -81,7 +121,7 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
   ],
   "awards": [
     {
