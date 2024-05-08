@@ -93,49 +93,47 @@ Highlight any particular achievements or milestones in the course that were sign
 One significant achievement for me during the course was successfully completing the web application development assignments. These assignments challenged me to apply my newly acquired skills in a practical context and allowed me to showcase my understanding of web development principles. Completing these projects boosted my confidence and affirmed my ability to develop functional and user-friendly web applications.
 
 
-Skill Development and Application
+**Skill Development and Application**
 
-****
 Reflect on the three skill levels outlined in the course (syntactic, algorithmic, application) and discuss your progression through these levels.
 Regarding skill development, I experienced progression through the three levels outlined in the course: syntactic, algorithmic, and application. Initially, I focused on mastering the syntax of programming languages such as HTML, CSS, and JavaScript. As I became more comfortable with the syntax, I shifted towards understanding algorithms and problem-solving techniques. This involved learning how to break down complex problems into smaller, more manageable steps and implementing efficient solutions. Finally, I applied these skills to develop web-based e-service applications, where I integrated various technologies and functionalities to create interactive and dynamic user experiences.
 
 
-Describe how the hands-on experience with web-based e-service applications enhanced your understanding and confidence in handling MIS issues.
-**
+**Describe how the hands-on experience with web-based e-service applications enhanced your understanding and confidence in handling MIS issues.**
 
 Firstly, developing e-service applications required a deep understanding of MIS principles, including data management, system integration, and user experience design. Through hands-on projects, I learned how to collect, process, and analyze data to derive meaningful insights for decision-making. This experience helped me understand the importance of data quality, security, and privacy in MIS applications.
 Additionally, working on web-based e-service applications exposed me to various technologies and frameworks commonly used in the industry. From front-end development using HTML, CSS, and JavaScript to back-end logic with Node.js and Express, I gained proficiency in a wide range of tools and techniques. This multidisciplinary approach enabled me to tackle complex MIS issues from different angles and devise innovative solutions.
 
 
-Use of AI (e.g. ChatGBT)
+**Use of AI (e.g. ChatGBT)**
 The use of AI, such as ChatGPT, played a crucial role in enhancing my learning and productivity. For instance, I utilized ChatGPT to clarify concepts, seek explanations for complex topics, and generate code snippets for specific functionalities. ChatGPT's ability to provide instant responses and personalized assistance streamlined my learning process and allowed me to overcome obstacles more efficiently.
 
 However, there were instances where the use of AI inhibited my learning and productivity. For example, relying too heavily on ChatGPT without actively engaging in problem-solving or critical thinking could lead to surface-level understanding and dependency on external sources. To mitigate this, I made sure to balance AI assistance with independent learning and practice.
 
-Discuss how use of AI enhanced your learning and productivity. Give specific examples of how you used AI effectively.
+**Discuss how use of AI enhanced your learning and productivity. Give specific examples of how you used AI effectively.**
 Especially from AI, I was able to learn new techniques and how to do things. Without the help of AI, I wouldn't be able to get assitance on how to make my syntax more effective or even to test if this would work. Having AI was similar to reciveing help from a friend. An example would be asking AI if they could look over my syntax JSON or CSS file to see if they matched or work.
 
-Discuss how use of AI inhibited your learning or and productivity. Give specific examples of how you used AI ineffectively.
+**Discuss how use of AI inhibited your learning or and productivity. Give specific examples of how you used AI ineffectively.**
 It has inhibited my learning or productivity by allowing me to learn and get assitance on what to start first. As a learner, I have very hands-on so when I was looking at all of the instructions. It was very difficult for me to learn or understand what needs to go first or second. Having this AI inibited me to learn faster and grasp looping or overall the whole assignment. 
 
-Future Implications and Professional Growth
+**Future Implications and Professional Growth**
 
 The skills I've gained from ITM 352 will significantly impact my future academic and professional journey. With a solid foundation in web development, I'm poised to explore various career paths in information technology, from software engineering to web application development. These technical skills will undoubtedly enhance my employability and open doors to diverse opportunities in the tech industry.
 
 Moreover, the problem-solving and critical thinking abilities I've honed during the course are invaluable assets. They'll enable me to tackle complex challenges effectively, whether in business settings or academic research. Additionally, the collaborative projects have sharpened my teamwork and communication skills, essential for success in any professional environment.
 
-Explore how the skills and knowledge gained from ITM 352 can be applied in your future academic and professional endeavors.
+**Explore how the skills and knowledge gained from ITM 352 can be applied in your future academic and professional endeavors.**
 The skills and knowledge acquired from ITM 352 have broad applications in both my future academic pursuits and professional endeavors. In academia, the understanding of web development principles and technologies will empower me to undertake research projects that involve building web-based applications or analyzing online systems. Whether conducting surveys, collecting data through interactive websites, or presenting findings through dynamic web interfaces, the proficiency gained in this course will be instrumental in producing high-quality academic work.
 
 In a professional context, the skills obtained from ITM 352 are directly applicable across various industries. For instance, in software development roles, I can leverage my expertise in web development to contribute to the design, implementation, and maintenance of robust web applications. The ability to develop secure, user-friendly interfaces and handle data effectively will be essential in creating impactful solutions for businesses and organizations.
 
-Discuss the potential impacts these skills will have on your career, especially in terms of understanding and addressing MIS problems.
+**Discuss the potential impacts these skills will have on your career, especially in terms of understanding and addressing MIS problems.**
 The skills I've gained from ITM 352 will greatly impact my future career, especially in understanding and solving Management Information Systems (MIS) problems. With expertise in web development, data management, and security, I feel more capable of leveraging technology effectively in various organizational settings.
 
 In the future, these skills will empower me to tackle MIS issues comprehensively and propose well-informed solutions. For instance, in roles related to systems analysis and design, I can utilize my understanding of web-based applications to evaluate current systems, pinpoint areas of inefficiency or vulnerability, and suggest enhancements for better performance and security.
 
 Additionally, being able to create customized web solutions tailored to specific business needs will position me as a valuable asset in organizations aiming to innovate and optimize their processes. Whether it's developing internal dashboards for data visualization, setting up e-commerce platforms, or improving customer relationship management systems, my proficiency in web development will allow me to contribute significantly to achieving organizational goals.
 
-Reflect on the overall value of the course in your educational journey and future career.
+**Reflect on the overall value of the course in your educational journey and future career.**
 
 This course has been incredibly valuable in shaping my educational journey and preparing me for my future career aspirations, particularly in roles like project manager or product manager. It has provided me with a solid foundation in various aspects of information technology and management, including web development, data management, and security.Through hands-on projects and assignments, I have learned how to tackle real-world problems and apply theoretical knowledge to practical scenarios. The course has challenged me to think critically, problem-solve creatively, and communicate effectively, skills that are essential for success in any professional setting.With the emphasis on understanding Management Information Systems (MIS) and their role in organizations has broadened my perspective on how technology can be leveraged to drive business outcomes. I've gained insights into how different systems interact, the importance of data integrity and security, and the value of user-centric design.
