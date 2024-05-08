@@ -8,9 +8,10 @@ published: true
 labels:
   - ITM reflection
 ---
-
+Used assistance of AI to fix some of my wording and sentence structure. 
 
 Course Goals ITM 352 has the following goals:
+
 **Acquiring basic programming skills in an IT context**
 After taking this class, I can safely say that I have grasped the programming concepts and technqiues using JSON, HTML, CSS. Especiallay with the use of css as it was one of the things where we had to contiouslsy change with trial and error. From the WODs and Assignments, it allowed me to build basic knowledge of the syntac to more complex algorithm like Assignmnet 1 and Assignmnet 2, where I was able to demostrate a good amount of my knowledge and implementation with for example login and authentication. 
 
