@@ -66,4 +66,6 @@ If I need extra support, I'll consider reaching out to the professor outside of 
 Personally, my biggest challenge is getting one-on-one help or working with a classmate. Without assistance, I tend to fall behind significantly. I find it difficult to learn without individualized instruction, especially if I'm struggling with a concept. ChatGPT has been instrumental in helping me understand what I'm doing wrong. I can ask questions quickly and receive prompt responses and suggestions for improvement. Having this resource has been invaluable in my learning journey.
 
 
-I hope you are doing great.Just know that the best help will be the people around you.
+I hope you are doing great.Just know that the best help will be the people around you. 
+
+Live, Life, Laugh :3
